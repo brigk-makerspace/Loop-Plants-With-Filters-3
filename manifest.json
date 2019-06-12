@@ -1,14 +1,14 @@
 {
- "package": "Loop-Plants-With-Filters 2",
+ "package": "Loop-Plants-With-Filters-2",
  "language": "python",
  "author": "rdegosse",
  "description": "Loop plants with filters, execute sequences and save meta data",
  "version": "1.0.4",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/brigk-makerspace/Loop-Plants-With-Filters/master/manifest.json",
- "zip": "https://github.com/brigk-makerspace/Loop-Plants-With-Filters/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/brigk-makerspace/Loop-Plants-With-Filters-2/master/manifest.json",
+ "zip": "https://github.com/brigk-makerspace/Loop-Plants-With-Filters-2/archive/master.zip",
  "executable": "python",
- "args": ["Loop-Plants-With-Filters-master/Loop-Plants-With-Filters/script.py"],
+ "args": ["Loop-Plants-With-Filters-2-master/Loop-Plants-With-Filters/script.py"],
  "config": [
   {"name": "title", "label": "Title", "value": "-"}, 
   {"name": "pointname", "label": "Filter by plant name", "value": "*"},
